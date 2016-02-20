@@ -1,0 +1,12 @@
+SUBIR UN PROYECTO ENTERO A GITHUB
+-crear repositorio en github sin archivo readme
+-en la carpeta donde esta proyecto
+git init
+
+git add .
+
+git commit -m "comentario"
+
+git remote add origin(se puede poner otra cosa) https://github.com/Armandobau/juego
+
+git push origin master
